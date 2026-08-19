@@ -2,14 +2,9 @@
 
 Plateforme communautaire officielle de Cursor Cameroun
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.2.5-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](./LICENSE)
 
-[Demo Live](https://cursor-cameroun-nine.vercel.app) · [Signaler un bug](https://github.com/cursor-cameroun/cursor-cameroun/issues) · [Proposer une feature](https://github.com/cursor-cameroun/cursor-cameroun/issues)
 
----
+
 
 ## Table des matières
 
